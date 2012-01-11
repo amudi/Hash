@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1165891140 source:d:\my documents\projects\hash\sha256.cpp
+	"SHA256.h"
+
+1165850460 d:\my documents\projects\hash\sha256.h
+	"IHash.h"
+
+1165853357 d:\my documents\projects\hash\ihash.h
+	<string.h>
+
+1165891151 source:d:\my documents\projects\hash\sha512.cpp
+	"SHA512.h"
+
+1165850445 d:\my documents\projects\hash\sha512.h
+	"IHash.h"
+
+1166610229 source:d:\my documents\projects\hash\sha1.cpp
+	<string>
+	<iostream>
+	"SHA1.h"
+
+1166610353 d:\my documents\projects\hash\sha1.h
+
+1165506420 source:d:\my documents\projects\hash\shacomparer.cpp
+	"SHAComparer.h"
+
+1165506420 d:\my documents\projects\hash\shacomparer.h
+
+1165506420 source:d:\my documents\projects\hash\stopwatch.cpp
+	"StopWatch.h"
+
+1167101193 d:\my documents\projects\hash\stopwatch.h
+
+1166610448 source:d:\my documents\projects\hash\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+	"SHA256.h"
+	"SHA512.h"
+	"SHA1.h"
+
